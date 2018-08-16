@@ -14,7 +14,7 @@ public class VarArgs {
 
     public static void imprimirNumeros(int... numeros){
 
-        //recorremos cada elemento
+        //recorremos cada elemento, con for cuando necesitamos tener un manejo del contador
         int elemento;
         for(int i= 0; i < numeros.length; i++){
             elemento = numeros[i];
