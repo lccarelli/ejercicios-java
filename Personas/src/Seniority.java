@@ -1,23 +1,19 @@
-public class Seniority extends Persona{
+public enum Seniority {
 
-    public int points;
-    public String Jr = "Jr";
-    public String Ssr = "Ssr";
-    public String Sr = "Sr";
+    JUNIOR(10),
+    SEMISENIOR(20),
+    SENIOR(30);
 
+    //Atributo de cada elemento de una anumeracion
+    private final int points;
 
-    public String calcularSeniority (){
+    //Constructor de cada elemento de la enumeracion
+    Seniority(int points){
+        this.points = points;
+    }
 
-
-        if (points >= 0 && points <= 10) {
-            return Jr;
-        }
-        else if (points >= 11 && points <= 20){
-            return Ssr;
-        }
-        else {
-            return Sr;
-        }
+    public int getPoints(){
+        return points;
     }
 
 }
