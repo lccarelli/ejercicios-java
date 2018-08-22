@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29547a21-adaf-4c5f-bd88-e34e312d4c47" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Empleado.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Empleado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#257#300#0" expanded="true" />
+                <element signature="e#257#300#0" expanded="true" />
+                <element signature="e#257#300#0" expanded="true" />
+                <element signature="e#257#300#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gerente.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gerente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <folding>
+                <element signature="e#513#573#0" expanded="true" />
+                <element signature="e#513#573#0" expanded="true" />
+                <element signature="e#513#573#0" expanded="true" />
+                <element signature="e#513#573#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TipoEscritura.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TipoEscritura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Escritor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Escritor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding>
+                <element signature="e#559#637#0" expanded="true" />
+                <element signature="e#559#637#0" expanded="true" />
+                <element signature="e#559#637#0" expanded="true" />
+                <element signature="e#619#649#0" expanded="true" />
+                <element signature="e#559#637#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+              <folding>
+                <element signature="e#1333#1357#1" expanded="true" />
+                <element signature="e#1498#1538#0" expanded="true" />
+                <element signature="e#1498#1538#0" expanded="true" />
+                <element signature="e#1802#1824#1" expanded="true" />
+                <element signature="e#1822#1840#0" expanded="true" />
+                <element signature="e#1916#1952#0" expanded="true" />
+                <element signature="e#1968#1988#0" expanded="true" />
+                <element signature="e#1968#1988#0" expanded="true" />
+                <element signature="e#1968#2019#0" expanded="true" />
+                <element signature="e#2256#2295#0" expanded="true" />
+                <element signature="e#2256#2295#0" expanded="true" />
+                <element signature="e#2311#2330#0" expanded="true" />
+                <element signature="e#2311#2330#0" expanded="true" />
+                <element signature="e#2311#2348#0" expanded="true" />
+                <element signature="e#2548#2586#0" expanded="true" />
+                <element signature="e#2548#2586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../gs-rest-service/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../soap" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Escritor.java" />
+        <option value="$PROJECT_DIR$/src/TipoEscritura.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="73" />
+    <option name="y" value="35" />
+    <option name="width" value="1217" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ConversionObjetos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConversionObjetos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConversionObjetos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConversionObjetos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConversionObjetos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29547a21-adaf-4c5f-bd88-e34e312d4c47" name="Default" comment="" />
+      <created>1534956987942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534956987942</updated>
+      <workItem from="1534956995090" duration="4504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4504000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="73" y="35" width="1795" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SBT Console" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958217" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Empleado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#257#300#0" expanded="true" />
+            <element signature="e#257#300#0" expanded="true" />
+            <element signature="e#257#300#0" expanded="true" />
+            <element signature="e#257#300#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#513#573#0" expanded="true" />
+            <element signature="e#513#573#0" expanded="true" />
+            <element signature="e#513#573#0" expanded="true" />
+            <element signature="e#513#573#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Escritor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="e#559#637#0" expanded="true" />
+            <element signature="e#559#637#0" expanded="true" />
+            <element signature="e#559#637#0" expanded="true" />
+            <element signature="e#619#649#0" expanded="true" />
+            <element signature="e#559#637#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TipoEscritura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+          <folding>
+            <element signature="e#1333#1357#1" expanded="true" />
+            <element signature="e#1498#1538#0" expanded="true" />
+            <element signature="e#1498#1538#0" expanded="true" />
+            <element signature="e#1802#1824#1" expanded="true" />
+            <element signature="e#1822#1840#0" expanded="true" />
+            <element signature="e#1916#1952#0" expanded="true" />
+            <element signature="e#1968#1988#0" expanded="true" />
+            <element signature="e#1968#1988#0" expanded="true" />
+            <element signature="e#1968#2019#0" expanded="true" />
+            <element signature="e#2256#2295#0" expanded="true" />
+            <element signature="e#2256#2295#0" expanded="true" />
+            <element signature="e#2311#2330#0" expanded="true" />
+            <element signature="e#2311#2330#0" expanded="true" />
+            <element signature="e#2311#2348#0" expanded="true" />
+            <element signature="e#2548#2586#0" expanded="true" />
+            <element signature="e#2548#2586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
