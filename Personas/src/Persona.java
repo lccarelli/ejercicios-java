@@ -36,10 +36,9 @@ public class Persona {
         }
     }
 
-    public static void imprimirSeniortiy(){
-        //utilizamos un forEach
-        for(Seniority s: Seniority.values()){
-            System.out.println("Seniority: " + s + " seniority " + s.getPoints() + "history points.");
-        }
+
+    @Override
+    public String toString(){
+        return this.nombre + " " + this.apellido;
     }
 }
